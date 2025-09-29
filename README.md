@@ -9,8 +9,8 @@
 
 ## 📊 Estatísticas do GitHub  
 
-![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickFelipe2000&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFelipe2000&layout=compact&theme=radical)  
+![Erick GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ErickFelipe2000&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=ErickFelipe2000&layout=compact&theme=radical)  
 
 ---
 
@@ -18,8 +18,6 @@
 
 - [**Caixa Eletrônico em Java**](https://github.com/ErickFelipe2000/caixa-eletronico-java) 💳  
   Simulação de um caixa eletrônico em **Java** com integração ao **PostgreSQL** utilizando **JDBC**.  
-
-
 
 ---
 
