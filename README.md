@@ -4,7 +4,6 @@
 
 🎓 Estudante de **Sistemas para Internet** no **IFPB - Campus Guarabira**, atualmente no **4º período**.  
 💻 Interessado em desenvolvimento **back-end**, banco de dados e programação de sistemas.  
-🚀 Meu objetivo é me tornar um **desenvolvedor back-end** focado em criar soluções eficientes e escaláveis.  
 
 ---
 
@@ -50,7 +49,6 @@
 ## 📬 Onde me encontrar  
 
 - GitHub: [@ErickSantos2000](https://github.com/ErickSantos2000)  
-- LinkedIn: *(adicione aqui quando tiver)*  
 
 ---
 
