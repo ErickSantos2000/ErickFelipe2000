@@ -1,26 +1,31 @@
-# ErickFelipe2000 
+# ErickFelipe2000  
+
 # 👋 Olá, eu sou Erick Felipe  
 
 🎓 Estudante de **Sistemas para Internet** no **IFPB - Campus Guarabira**, atualmente no **4º período**.  
+💻 Interessado em desenvolvimento web, banco de dados e programação de sistemas.  
+
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub  
 
 ![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickFelipe2000&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFelipe2000&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFelipe2000&layout=compact&theme=radical)  
 
 ---
 
-## 🌟 Projetos em Destaque
+## 🌟 Projetos em Destaque  
 
-- [**Caixa eletrônico em Java**](https://github.com/erick-linux/jogo-adivinhacao) 🎲  
-  Simulação de um simples caixa eletrônico em Java com integração com PostgresSQL utilizando JDBC.  
+- [**Caixa Eletrônico em Java**](https://github.com/ErickFelipe2000/caixa-eletronico-java) 💳  
+  Simulação de um caixa eletrônico em **Java** com integração ao **PostgreSQL** utilizando **JDBC**.  
+
+
 
 ---
 
 ## 📬 Onde me encontrar  
 
-- GitHub: [@erick-linux](https://github.com/erick-linux)  
+- GitHub: [@ErickFelipe2000](https://github.com/ErickFelipe2000)  
 - LinkedIn: *(adicione aqui quando tiver)*  
 
 ---
