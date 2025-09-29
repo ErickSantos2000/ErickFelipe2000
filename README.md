@@ -6,8 +6,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=erick-linux&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-linux&layout=compact&theme=radical)
+![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickFelipe2000&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFelipe2000&layout=compact&theme=radical)
 
 ---
 
