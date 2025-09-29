@@ -1,4 +1,4 @@
-# ErickFelipe2000  
+# ErickSantos2000  
 
 # 👋 Olá, eu sou Erick Felipe  
 
@@ -9,21 +9,19 @@
 
 ## 📊 Estatísticas do GitHub  
 
-![Erick GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ErickFelipe2000&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=ErickFelipe2000&layout=compact&theme=radical)  
+![Estatísticas de ErickSantos2000](https://github-readme-stats.vercel.app/api?username=ErickSantos2000&show_icons=true&theme=default)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSantos2000&layout=compact&theme=default)  
 
 ---
 
 ## 🌟 Projetos em Destaque  
 
-- [**Caixa Eletrônico em Java**](https://github.com/ErickFelipe2000/caixa-eletronico-java) 💳  
+- [**Caixa Eletrônico em Java**](https://github.com/ErickSantos2000/caixa-eletronico-java) 💳  
   Simulação de um caixa eletrônico em **Java** com integração ao **PostgreSQL** utilizando **JDBC**.  
-
----
 
 ## 📬 Onde me encontrar  
 
-- GitHub: [@ErickFelipe2000](https://github.com/ErickFelipe2000)  
+- GitHub: [@ErickSantos2000](https://github.com/ErickSantos2000)  
 - LinkedIn: *(adicione aqui quando tiver)*  
 
 ---
