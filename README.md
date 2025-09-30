@@ -1,4 +1,3 @@
-# ErickSantos2000  
 
 # 👋 Olá, eu sou Erick Felipe  
 
